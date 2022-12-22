@@ -16,7 +16,7 @@ My personal collection of resources and places to make myself a competitive data
 
 - [Ace the Data Science Interview](https://www.amazon.com/Ace-Data-Science-Interview-Questions/dp/0578973839/ref=sr_1_1?crid=1YW2SEIRO0MDU&keywords=data+science+interview&qid=1671039284&sprefix=data+science+intervie%2Caps%2C138&sr=8-1)
 - [Designing ML Systems](https://www.amazon.com/Designing-Machine-Learning-Systems-Production-Ready/dp/1098107969/ref=sr_1_3?crid=13ZHY7BDC8I5U&keywords=machine+learning+design&qid=1671039325&s=books&sprefix=machine+learning+design%2Cstripbooks%2C126&sr=1-3)
-- [Cracking The Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_1?crid=25OCFXXHVCCA2&keywords=cracking+the+coding+interview&qid=1671039350&s=books&sprefix=cracking+the+coding%2Cstripbooks%2C120&sr=1-1)
+- [Tech Interview Algorithms Study Guide](https://www.techinterviewhandbook.org/algorithms/study-cheatsheet/)
 - [Fluent Python](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1492056359/ref=sr_1_1?crid=DB942FURNMJ2&keywords=fluent+python&qid=1671039377&s=books&sprefix=fluent+python%2Cstripbooks%2C117&sr=1-1)
 
 ### Current Skill Building
