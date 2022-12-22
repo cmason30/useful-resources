@@ -22,7 +22,7 @@ My personal collection of resources and places to make myself a competitive data
 ### Current Skill Building
 
 - FastAPI
-- Azure Fundamentals Certificate
+- Azure Fundamentals
 - Kaggle
 - Reddit Streamer ([Personal Project](https://github.com/cmason30/subreddit-city-streamer))
 - LeetCode
